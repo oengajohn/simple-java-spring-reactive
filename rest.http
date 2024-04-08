@@ -1,0 +1,8 @@
+GET http://localhost:8080/api/hello HTTP/1.1
+
+
+### List Products
+GET http://localhost:8080/api/products HTTP/1.1
+
+### Get Product
+GET http://localhost:8080/api/products/004 HTTP/1.1
