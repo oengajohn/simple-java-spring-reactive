@@ -6,3 +6,6 @@ GET http://localhost:8080/api/products HTTP/1.1
 
 ### Get Product
 GET http://localhost:8080/api/products/004 HTTP/1.1
+
+### List Users
+GET http://localhost:8080/api/users HTTP/1.1
